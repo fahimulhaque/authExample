@@ -12,8 +12,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 * password - 1234.
 
 ### Features
+* show and hide element
  * JWT secured APIs call 
- * Auth Protected
- * Auth Protected based on role
+ * Protected route using guard
+ * Auth Protected based on role using guard.
  * Fake Backend
  * Role based Route protected
